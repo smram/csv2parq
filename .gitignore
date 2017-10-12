@@ -1,0 +1,7 @@
+**/.class
+**/*.parq
+**/derby.log
+**/metastore_db
+**/project/
+**/target/
+data/
